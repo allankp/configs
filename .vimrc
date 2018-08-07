@@ -6,6 +6,7 @@ filetype off
 
 set splitbelow
 set splitright
+set mouse=a
 
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
