@@ -19,6 +19,7 @@ Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'jnurmine/Zenburn'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'vim-scripts/indentpython.vim'
+Plugin 'ambv/black'
 
 call vundle#end()
 filetype plugin indent on
